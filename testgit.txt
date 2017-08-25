@@ -4,6 +4,9 @@ learning git
 我也不知道为什么添加
 就是测试git命令
 
+刚才上面的是第一次添加测试
+现在的是第二次添加测试
+
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
 Git has a mutable index called stage.
