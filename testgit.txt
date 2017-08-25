@@ -7,6 +7,7 @@ learning git
 刚才上面的是第一次添加测试
 现在的是第二次添加测试
 
+再次测试撤回修改的命令，这一次测试先提交一次到暂存区，然后再修改一次看看，这是提交之前
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
 Git has a mutable index called stage.
